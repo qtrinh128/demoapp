@@ -1,0 +1,22 @@
+{
+  "name": "demoapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qtrinh128/demoapp.git"
+  },
+  "author": "qtrinh128",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qtrinh128/demoapp/issues"
+  },
+  "homepage": "https://github.com/qtrinh128/demoapp#readme",
+  "dependencies": {
+    "uuid": "^8.1.0"
+  }
+}
